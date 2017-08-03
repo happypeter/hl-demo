@@ -4,6 +4,21 @@ body {
   min-height: 100vh;
 }
 
+a {
+  text-decoration: none;
+}
+
+.header {
+  display: flex;
+  padding: 20px;
+}
+
+.header a {
+  display: block;
+  color: white;
+  padding-left: 10px;
+}
+
 .post-body {
   width: 400px;
   height: 200px;

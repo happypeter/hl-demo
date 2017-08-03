@@ -6,7 +6,7 @@ import {
 class Header extends Component {
   render(){
     return(
-      <div className="Header">
+      <div className="header">
         <Link to="/">Home</Link>
         <Link to="/post">Post</Link>
       </div>
